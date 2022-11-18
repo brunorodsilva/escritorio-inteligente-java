@@ -1,4 +1,4 @@
-# Escritório inteligente
+# Escritório Inteligente
 ## Projeto criado para obtenção de nota na disciplina de POO da Universidade de Uberaba - UNIUBE
 
 ### Requisistos para executar o projeto:
