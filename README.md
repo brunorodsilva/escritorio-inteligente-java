@@ -1,6 +1,6 @@
 # Escritório Inteligente
 ## Projeto criado para obtenção de nota na disciplina de POO da Universidade de Uberaba - UNIUBE
-<img src="https://i.imgur.com/sR5Mc0R.png" width="550" height="400"/> <br/>
+<img src="https://i.imgur.com/sR5Mc0R.png" width="550" height="380"/> <br/>
 ### Requisistos para executar o projeto:
 - Java Development Kit - JDK versão 8 ou Posterior
 - NetBeans versão 8 ou Posterior
