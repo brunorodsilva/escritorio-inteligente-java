@@ -6,6 +6,7 @@
 ### Requisistos para executar o projeto:
 - Java Development Kit - JDK versão 8 ou Posterior
 - NetBeans versão 8 ou Posterior
+<img src="https://imgur.com/TCJPAzI"/>
 
 ## Executar o projeto:
 #### Basta abrir o projeto com o NetBeans e Executar
