@@ -7,4 +7,4 @@
 ## Executar o projeto:
 #### Basta abrir o projeto com o NetBeans e Executar
 #### Download do projeto: <br/>
-<a href="https://github.com/brunorodsilva/dio-projeto-clone-netflix/archive/refs/heads/main.zip"><img src="https://i.imgur.com/lgr58uU.png" width="50px"></a>
+<a href="https://github.com/brunorodsilva/escritorio-inteligente-java/archive/refs/heads/main.zip"><img src="https://i.imgur.com/lgr58uU.png" width="50px"></a>
